@@ -1,0 +1,14 @@
+{
+    
+    "1095827105":{
+    "nombre": "Robinson",
+    "apellido":"Mosquera",
+    "nivel academico": "Bachiller tecnico",
+    "edad": "28",
+    "fecha de nacimiento": "13/12/1995",
+    "Telefono":"3506222210",
+    "correo":"robinson.mosquera13@gmail.com",
+    "GitHub":"https://github.com/RobinsonMosqueraCubides",
+    "pasa tiempo": ["jugar", "conocer lugares nuevos","ver peliculas y series"]
+                 }
+}
