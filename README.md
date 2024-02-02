@@ -92,4 +92,35 @@
 
 **float**: Permite que un elemento flote hacia la izquierda o la derecha de su contenedor.
 
+## Glosario Flex
+
 **flex**: Define las propiedades de diseño flexible.
+
+**display: flex;**: Esta propiedad se aplica al contenedor padre y establece un contexto de formato flexible para sus elementos secundarios. Es el punto de partida para utilizar Flexbox.
+
+**flex-direction**: Esta propiedad define la dirección principal del contenedor flexible. Puede ser 'row' (por defecto, de izquierda a derecha), 'row-reverse' (de derecha a izquierda), 'column' (de arriba a abajo) o 'column-reverse' (de abajo a arriba).
+
+**justify-content**: Controla la alineación de los elementos secundarios a lo largo del eje principal. Puede ser 'flex-start', 'flex-end', 'center', 'space-between', 'space-around', o 'space-evenly'
+
+**align-items**: Alinea los elementos secundarios a lo largo del eje transversal. Puede ser 'flex-start', 'flex-end', 'center', 'stretch', o 'baseline'
+
+**align-self**: Permite anular la alineación predeterminada del elemento secundario en el eje transversal.
+
+## Glosario Grid
+
+**display: grid;**: Esta propiedad se aplica al contenedor padre y establece un contexto de formato de cuadrícula para sus elementos secundarios. Es el punto de partida para utilizar CSS Grid.
+
+**grid-template-rows** y **grid-template-columns**: Estas propiedades definen el número y tamaño de filas y columnas en la cuadrícula.
+
+**grid-template-areas**: Permite definir áreas en la cuadrícula y asignar elementos secundarios a esas áreas
+
+**grid-row** y **grid-column**: Permiten especificar en qué fila o columna debe colocarse un elemento secundario dentro de la cuadrícula.
+
+**grid-gap**: Define el espacio entre las filas y columnas de la cuadrícula.
+
+ **justify-items** y **align-items**: Controlan la alineación de los elementos secundarios dentro de sus celdas en la cuadrícula.
+
+**grid-auto-rows** y **grid-auto-columns**: Especifican el tamaño predeterminado de filas o columnas generadas automáticamente.
+
+**grid-auto-flow**: Determina cómo se deben colocar los elementos secundarios generados automáticamente en la cuadrícula.
+
